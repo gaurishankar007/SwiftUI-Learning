@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Async-Programming.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Custom-Operators.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Equality-Hashing.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Collections.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Error-Handling.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Optionals.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Generics.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Extensions.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Protocals.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Classes.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Enumerations.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Structures.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Closures.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Functions.playground">
+   </FileRef>
+   <FileRef
+      location = "group:If-Else.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Operators.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Variables.playground">
+   </FileRef>
+</Workspace>
