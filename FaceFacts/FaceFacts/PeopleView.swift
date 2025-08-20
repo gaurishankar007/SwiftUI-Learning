@@ -1,10 +1,3 @@
-//
-//  PeopleView.swift
-//  FaceFacts
-//
-//  Created by Gauri Shankar Sharma on 04/08/2025.
-//
-
 import SwiftUI
 import SwiftData
 
