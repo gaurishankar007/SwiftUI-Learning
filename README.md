@@ -41,13 +41,15 @@ FaceFacts is a SwiftUI-based iOS application designed to help you remember the p
 *   **Sort Options**: Sort your list of people alphabetically by name (A-Z or Z-A).
 *   **Data Persistence**: Your data is saved locally on your device using SwiftData.
 
-### How to Use
+## Landmarks: iOS and iPadOS App
 
-1.  **Main Screen**: The app opens to a list of all the people you have saved.
-2.  **Add a Person**: Tap the "+" button in the toolbar to add a new person.
-3.  **Edit Person Details**: After adding a person, you'll be taken to a screen where you can enter their name, email, and other details. You can also select a photo from your photo library.
-4.  **Manage Events**:
-    *   In the "Where did you meet them?" section, you can assign a person to an existing event.
-    *   If the event doesn't exist yet, you can tap "Add a new event" to create it.
-5.  **Search and Sort**: Use the search bar at the top to find people, and use the sort menu to reorder your list.
-6.  **Delete a Person**: On the main list, you can swipe to delete a person.
+Landmarks is a SwiftUI-based application for iOS and iPadOS that helps users discover and learn about famous landmarks. The app provides a list of landmarks, each with detailed information, images, and a map view showing its location.
+
+### Features
+
+*   **Discover Landmarks**: Browse a list of beautiful and famous landmarks.
+*   **Detailed Information**: View details for each landmark, including a description, photo, and location.
+*   **Interactive Map**: See the landmark's location on an interactive map.
+*   **Favorites**: Mark your favorite landmarks for quick access.
+*   **Category Filtering**: Filter landmarks by category, such as Lakes or Mountains.
+*   **Adaptive UI**: The user interface adapts seamlessly for both iPhone and iPad layouts.
