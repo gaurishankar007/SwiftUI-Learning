@@ -53,3 +53,16 @@ Landmarks is a SwiftUI-based application for iOS and iPadOS that helps users dis
 *   **Favorites**: Mark your favorite landmarks for quick access.
 *   **Category Filtering**: Filter landmarks by category, such as Lakes or Mountains.
 *   **Adaptive UI**: The user interface adapts seamlessly for both iPhone and iPad layouts.
+
+## NetworkingCoins: iOS App
+
+NetworkingCoins is a SwiftUI-based iOS application that demonstrates fetching and displaying data from a network API. It lists various cryptocurrencies, showing their market rank, name, symbol, and logo.
+
+### Features
+
+*   **Fetch Cryptocurrency Data**: Fetches a list of coins from a remote API.
+*   **Modern Concurrency**: Utilizes Swift's `async/await` for network requests.
+*   **MVVM Architecture**: Implements the Model-View-ViewModel pattern for a clean separation of concerns.
+*   **Asynchronous Image Loading**: Loads and displays coin logos asynchronously using `AsyncImage`.
+*   **Dependency Injection**: Leverages SwiftUI's `Environment` for injecting the data service.
+*   **Error Handling**: Gracefully handles and displays network errors to the user.
