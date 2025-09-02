@@ -79,22 +79,3 @@ NetworkingCoins is a SwiftUI-based iOS application that demonstrates fetching an
 *   **Error Handling**: Gracefully handles and displays network errors to the user.
 
 <img src="./screenshots/NetworkingCoins.png" width="250" alt="NetworkingCoins Screenshot">
-
-<div display="flex" flex-wrap="wrap" align="start">
-    <img src="./image/help/BarChart.png" width="250" alt="screenshot">
-    <img src="./image/help/Category.png" width="250" alt="screenshot">
-    <img src="./image/help/HomePageCongratulation.png" width="250" alt="screenshot">
-    <img src="./image/help/ExpenseCategory.png" width="250" alt="screenshot">
-    <img src="./image/help/IncomeCategory.png" width="250" alt="screenshot">
-    <img src="./image/help/Screenshot_1659363903.png" width="250" alt="screenshot">
-    <img src="./image/help/AddExpense.png" width="250" alt="screenshot">
-    <img src="./image/help/SearchExpense.png" width="250" alt="screenshot">
-    <img src="./image/help/SearchedExpense.png" width="250" alt="screenshot">
-    <img src="./image/help/ExpensePageCongratulation.png" width="250" alt="screenshot">
-    <img src="./image/help/Incomes.png" width="250" alt="screenshot">
-    <img src="./image/help/AddIncome.png" width="250" alt="screenshot">
-    <img src="./image/help/ProgressPage.png" width="250" alt="screenshot">
-    <img src="./image/help/AchievementPage.png" width="250" alt="screenshot">
-    <img src="./image/help/AchievementDetail.png" width="250" alt="screenshot">
-    <img src="./image/help/RankingPage.png" width="250" alt="screenshot">
-</div>
