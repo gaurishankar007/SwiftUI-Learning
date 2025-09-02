@@ -41,6 +41,11 @@ FaceFacts is a SwiftUI-based iOS application designed to help you remember the p
 *   **Sort Options**: Sort your list of people alphabetically by name (A-Z or Z-A).
 *   **Data Persistence**: Your data is saved locally on your device using SwiftData.
 
+<div display="flex" flex-wrap="wrap" align="start">
+    <img src="./screenshots/FaceFacts.png" width="300" alt="FaceFacts Screenshot">
+    <img src="./screenshots/FaceFacts2.png" width="300" alt="FaceFacts Screenshot">
+</div>
+
 ## Landmarks: iOS and iPadOS App
 
 Landmarks is a SwiftUI-based application for iOS and iPadOS that helps users discover and learn about famous landmarks. The app provides a list of landmarks, each with detailed information, images, and a map view showing its location.
@@ -54,6 +59,12 @@ Landmarks is a SwiftUI-based application for iOS and iPadOS that helps users dis
 *   **Category Filtering**: Filter landmarks by category, such as Lakes or Mountains.
 *   **Adaptive UI**: The user interface adapts seamlessly for both iPhone and iPad layouts.
 
+<div display="flex" flex-wrap="wrap" align="start">
+    <img src="./screenshots/Landmarks.png" width="300" alt="Landmarks Screenshot">
+    <img src="./screenshots/Landmarks2.png" width="300" alt="Landmarks Screenshot">
+    <img src="./screenshots/Landmarks3.png" width="300" alt="Landmarks Screenshot">
+</div>
+
 ## NetworkingCoins: iOS App
 
 NetworkingCoins is a SwiftUI-based iOS application that demonstrates fetching and displaying data from a network API. It lists various cryptocurrencies, showing their market rank, name, symbol, and logo.
@@ -66,3 +77,24 @@ NetworkingCoins is a SwiftUI-based iOS application that demonstrates fetching an
 *   **Asynchronous Image Loading**: Loads and displays coin logos asynchronously using `AsyncImage`.
 *   **Dependency Injection**: Leverages SwiftUI's `Environment` for injecting the data service.
 *   **Error Handling**: Gracefully handles and displays network errors to the user.
+
+<img src="./screenshots/NetworkingCoins.png" width="250" alt="NetworkingCoins Screenshot">
+
+<div display="flex" flex-wrap="wrap" align="start">
+    <img src="./image/help/BarChart.png" width="250" alt="screenshot">
+    <img src="./image/help/Category.png" width="250" alt="screenshot">
+    <img src="./image/help/HomePageCongratulation.png" width="250" alt="screenshot">
+    <img src="./image/help/ExpenseCategory.png" width="250" alt="screenshot">
+    <img src="./image/help/IncomeCategory.png" width="250" alt="screenshot">
+    <img src="./image/help/Screenshot_1659363903.png" width="250" alt="screenshot">
+    <img src="./image/help/AddExpense.png" width="250" alt="screenshot">
+    <img src="./image/help/SearchExpense.png" width="250" alt="screenshot">
+    <img src="./image/help/SearchedExpense.png" width="250" alt="screenshot">
+    <img src="./image/help/ExpensePageCongratulation.png" width="250" alt="screenshot">
+    <img src="./image/help/Incomes.png" width="250" alt="screenshot">
+    <img src="./image/help/AddIncome.png" width="250" alt="screenshot">
+    <img src="./image/help/ProgressPage.png" width="250" alt="screenshot">
+    <img src="./image/help/AchievementPage.png" width="250" alt="screenshot">
+    <img src="./image/help/AchievementDetail.png" width="250" alt="screenshot">
+    <img src="./image/help/RankingPage.png" width="250" alt="screenshot">
+</div>
